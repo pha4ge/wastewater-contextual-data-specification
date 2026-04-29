@@ -11,13 +11,13 @@ The following version information regarding field/piclkist term values are avail
 - **Version Tracking: Label** // The release number indicating when this concept label was released or last updated.
 - **Version Tracking: ID** // The release number indicating when this concept ID was released or last updated.
 - **Version Tracking: Description/Guidance** // The release number indicating when one or more of these data elements were released or last updated.
-- **Editor Notes** // May or may not be included in the package. Used to help curators track relevant discussions, ontology new term requests, etc.
+
 
 ## Files
 
-- `Wastewater_Master-Reference-Guide_v3-1-1.xlsx` 
+- `Wastewater_Master-Reference-Guide_4-3-3.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.).
 
-- `Wastewater_Master-Reference_Field-Reference-Guide_v3-1-1.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+- `Wastewater_Master-Reference_Field-Reference-Guide_4-3-3.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
 
-- `Wastewater_Master-Reference_Term-Reference-Guide_v3-1-1.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
+- `Wastewater_Master-Reference_Term-Reference-Guide_4-3-3.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
